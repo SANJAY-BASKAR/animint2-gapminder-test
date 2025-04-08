@@ -1,4 +1,3 @@
-Absolutely! Here are clean, copy-paste ready `README.md` files for both your **Easy** and **Medium** tasks to include in their respective GitHub repositories:
 
 ---
 
